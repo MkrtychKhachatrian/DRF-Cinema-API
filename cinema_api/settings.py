@@ -64,7 +64,7 @@ MIDDLEWARE = [
     "django.middleware.clickjacking.XFrameOptionsMiddleware",
 ]
 
-ROOT_URLCONF = "cinema_service.urls"
+ROOT_URLCONF = "cinema_api.urls"
 
 TEMPLATES = [
     {
