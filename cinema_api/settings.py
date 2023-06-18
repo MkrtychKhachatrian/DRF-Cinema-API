@@ -82,7 +82,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = "cinema_service.wsgi.application"
+WSGI_APPLICATION = "cinema_api.wsgi.application"
 
 
 # Database
