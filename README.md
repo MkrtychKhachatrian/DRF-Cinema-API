@@ -1,6 +1,6 @@
 # DRF Cinema API
 
-API service for cinema management written using Django REST Framework
+API service for cinema management using Django REST Framework
 
 ## Installing using GitHub:
 Install PostgreSQL and create db.
